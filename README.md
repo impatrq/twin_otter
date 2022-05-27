@@ -9,3 +9,7 @@ Lorem ipsum
 # Objetivo del proyecto
 
 Lorem ipsum
+
+# Integrantes
+
+Lorem ipsum
