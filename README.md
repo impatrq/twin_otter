@@ -30,8 +30,13 @@ Radino, Mauro Ian              (mauroradino)      mauroradino2003@gmail.com
 
 Suarez Pavicich, Maria Luana   (Marilu-su)        Mluanasuarez@gmail.com
 
-Zocco, Franco Fabrizio         
+Zocco, Franco Fabrizio     
 
+# *Distribucion de tareas*
 
+Distefano, Gregorini, Petrone: Crear un sistma de simulacion, alimentando la toma estatica y dinamica del aire, para que los instrumentos marquen los valores correspondientes.
 
+Zocco, Parlapiano, Ayala: Organizacion y comprension de los manuales de instrumentos. Cableado y conexion de instrumentos.
+
+Radino, Suarez, Iglesias: Desarrollo de la interfaz grafca de la aspen PFD-MFD.
 
