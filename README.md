@@ -32,13 +32,15 @@ Velocimetro: USD 400;
 
 Vertical Speed: USD 300;
 
-indicador de giros y virajes:USD 300;
+Indicador de Giros y Virajes:USD 300;
 
 ADF: USD 600;
 
-Tapizado: USD 30
+Tapizado: USD 30;
 
-Bomba presurizadora: USD 135
+Bomba presurizadora: USD 135;
+
+Costo total del proyecto: USD 29.860 
 
 
 
