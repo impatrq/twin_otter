@@ -5,7 +5,8 @@
 # Información del proyecto
 Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Quilmes y en este proyecto vamos a restaurar una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico, colocando los instrumentos del tablero, pintando las puertas, haciendo la fuente de alimentacion, realizando el cableado y la limpieza de la misma. 
 
-# Objetivo del proyecto
+# *Objetivo del proyecto*
+El objetivo del proyecto es que la institución cuente con un componente más didáctico para los estudiantes.La cabina de Twin Otter va a contar con los instrumentos necesarios para comprender y visualizar los movimientos y funcionamientos de una cabina de avión,incuyendo los instrumentos de vuelo,navegación y varios.
 
 Lorem ipsum
 
