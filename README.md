@@ -31,3 +31,14 @@ Radino, Mauro Ian              (mauroradino)
 Suarez Pavicich, Maria Luana   (Marilu-su)
 
 Zocco, Franco Fabrizio         
+
+# Informacion De Contacto
+
+mauroradino2003@gmail.com
+nahuelpetro03@gmail.com
+Mluanasuarez@gmail.com
+distefanoana16@gmail.com
+Sofiabelengregorini@impatrq.com
+Federicoparla92@gmail.com
+Santiglesias2580@gmail.com
+joaco121109@gmail.com
