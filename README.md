@@ -1,8 +1,9 @@
+<div align="center">
+
 # Twin Otter
 
-![Image text](ImagenesS/WhatsApp%20Image%202022-10-03%20at%2014.07.01.jpeg)
+(https://raw.githubusercontent.com/impatrq/twin_otter/docs/LS/readmeconimagen/Imagenes/logo%20sinsinfondo.png)
 </div>
-
 # Información del proyecto
  En este proyecto se trata de una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico.
 
@@ -20,7 +21,10 @@ Los instrumentos digitales presentan distintos módulos y antenas que pondrán e
 Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Quilmes interesados en dejar un objeto didactico para los mas chicos de la escuela.
 
 # *Integrantes*
-<img src=¨¨ alt="Logo proyecto" width="250"/>
+<div align="center">
+
+
+
 </div>
 
 ### Ayala, Joaquin Edgardo         
