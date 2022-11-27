@@ -1,71 +1,71 @@
 # Twin Otter
 
-** acá hay que poner un logo **
+![Image text](ImagenesS/WhatsApp%20Image%202022-10-03%20at%2014.07.01.jpeg)
+</div>
 
 # Información del proyecto
-Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Quilmes y en este proyecto vamos a restaurar una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico, colocando los instrumentos del tablero, pintando las puertas, haciendo la fuente de alimentacion, realizando el cableado y la limpieza de la misma. 
+ En este proyecto se trata de una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico.
 
-# Objetivo del proyecto
+# Objetivo del Proyecto
 
-Lorem ipsum
+El objetivo es reacondicionar una cabina de twin otter, realizando la instalación de instrumental para poder realizar ensayos y simulaciones a partir de la teoría, y de esta manera capacitar a los futuros técnicos en el conocimiento de los sistemas de navegación.
 
-# Costo del proyecto
+# Como funciona?
+A partir de una fuente regulada de 28V se alimentarán todos los instrumentos.
+Al no tener un sistema pitot-estática funcional, decidimos crear un código sobre un Arduino mediante el cual, a través de motores paso a paso, gire la aguja y muestre en la cartilla el valor ingresado, el cual será de velocidad, velocidad vertical y/o altitud.
+Los instrumentos digitales presentan distintos módulos y antenas que pondrán en funcionamiento su sistema interno.
 
-lista de precios:
+# Quienenes lo desarrollaron?
 
-Fuente switching 24v: USD 15;
-
-Transponder KT-76: USD 900;
-
-NAV-COM KX 155A/165A: USD 1.400;
-
-ELT ME406: USD 2.700;
-
-Evolution 1000 PFD (pantalla): USD 20.000;
-
-KI 208A/209A(compas magnetico): USD 580;
-
-GPS: USD 2.000;
-
-Altimetro: USD 500;
-
-Velocimetro: USD 400;
-
-Vertical Speed: USD 300;
-
-Indicador de Giros y Virajes:USD 300;
-
-ADF: USD 600;
-
-Tapizado: USD 30;
-
-Bomba presurizadora: USD 135;
-
-Costo total del proyecto: USD 29.860 
-
+Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Quilmes interesados en dejar un objeto didactico para los mas chicos de la escuela.
 
 # *Integrantes*
+<img src=¨¨ alt="Logo proyecto" width="250"/>
+</div>
 
-Este proyecto lo integran algunos alumnos de 7mp 1ra avionica del colegio Impa TRQ. A continuacion los nombres de dichos alumnos y sus respectivos usuarios.
+### Ayala, Joaquin Edgardo         
+GitHub: joaco1211
+Mail: joaco121109@gmail.com
+Instagram :
 
-Ayala, Joaquin Edgardo         (joaco1211)        joaco121109@gmail.com
+### Distefano, Ana Caterina
+GitHub: anaadistefano
+Mail: distefanoana16@gmail.com
+Instagram : anaadistefano
 
-Distefano, Ana Caterina        (anaadistefano)    distefanoana16@gmail.com
+### Gregorini, Sofia Belen
+GitHub: sofiagregorini
+Mail: Sofiabelengregorini@impatrq.com
+Instagram : 
 
-Gregorini, Sofia Belen         (sofiagregorini)   Sofiabelengregorini@impatrq.com
+### Iglesias, Santiago Oscar
+GitHub: Santiag0
+Mail: Santiglesias2580@gmail.com
+Instagram : 
 
+### Parlapiano, Federico
+GitHub: Fedeparla19
+Mail: Federicoparla92@gmail.com
+Instagram : fedeparla__17
 
-Iglesias, Santiago Oscar       (Santiag0)         Santiglesias2580@gmail.com
+### Petrone Medina, Nahuel
+GitHub: nahuelPM
+Mail: nahuelpetro03@gmail.com
 
-Parlapiano, Federico           (Fedeparla19)      Federicoparla92@gmail.com
+### Radino, Mauro Ian  
+GitHub: mauroradino
+Mail: mauroradino2003@gmail.com
+Instagram : mauroradino01
 
-Petrone Medina, Nahuel         (nahuelPM)         nahuelpetro03@gmail.com
+### Suarez Pavicich, Maria Luana
+GitHub: Marilu-su
+Mail: Mluanasuarez@gmail.com
+Instagram : Luu.suuarez
 
-Radino, Mauro Ian              (mauroradino)      mauroradino2003@gmail.com
-
-Suarez Pavicich, Maria Luana   (Marilu-su)        Mluanasuarez@gmail.com
-
-Zocco, Franco Fabrizio         
+### Zocco, Franco Fabrizio         
+GitHub: 
+Mail: 
+Instagram : 
 
 
 
