@@ -4,6 +4,7 @@
 
 ![alt text](https://raw.githubusercontent.com/impatrq/twin_otter/docs/LS/readmeconimagen/Imagenes/logo%20sinsinfondo.png)
 </div>
+
 # Información del proyecto
  En este proyecto se trata de una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico.
 
