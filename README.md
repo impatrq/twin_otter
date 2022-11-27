@@ -2,7 +2,7 @@
 
 # Twin Otter
 
-(https://raw.githubusercontent.com/impatrq/twin_otter/docs/LS/readmeconimagen/Imagenes/logo%20sinsinfondo.png)
+![alt text](https://raw.githubusercontent.com/impatrq/twin_otter/docs/LS/readmeconimagen/Imagenes/logo%20sinsinfondo.png)
 </div>
 # Información del proyecto
  En este proyecto se trata de una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico.
@@ -23,7 +23,7 @@ Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Qui
 # *Integrantes*
 <div align="center">
 
-
+![alt text](https://raw.githubusercontent.com/impatrq/twin_otter/docs/LS/readmeconimagen/Imagenes/nosotros2.jpg)
 
 </div>
 
