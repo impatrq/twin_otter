@@ -1,6 +1,6 @@
-+# Twin Otter
++# *Twin Otter*
 
-![Image text](Imagenes/WhatsApp%20Image%202022-10-03%20at%2014.07.01.jpeg)
+![Image text](Imagenes/logo%20sinsinfondo.png)
 </div>
 
 # Información del proyecto
@@ -20,7 +20,7 @@ Los instrumentos digitales presentan distintos módulos y antenas que pondrán e
 Somos alumnos de 7mo 1ra Avionica de la escuela secuandaria tecnica N° 7 de Quilmes interesados en dejar un objeto didactico para los mas chicos de la escuela.
 
 # *Integrantes*
-<img src=¨¨ alt="Logo proyecto" width="250"/>
+![Image text](Imagenes/nosotros2.jpg)
 </div>
 
 ### Ayala, Joaquin Edgardo         
