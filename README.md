@@ -1,8 +1,9 @@
-+# *Twin Otter*
+<center>
+### *Twin Otter*
 
-![Image text](Imagenes/logo%20sinsinfondo.png)
+![Image text](Imagenes/Logo%20principal%20sin%20fondo.png)
 </div>
-
+</center>
 # Información del proyecto
  En este proyecto se trata de una cabina de un Twin Otter, el cual fue proporcionado por la escuela. Nosotros vamos a restablecerla para el uso didactico.
 
